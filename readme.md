@@ -8,3 +8,5 @@ I am now making changes
 This is my second change
 
 I do not want this change 
+
+I am making a change
